@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 827ba51d843f69045a0e53c8678b866d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundTiles: {fileID: 2800000, guid: bcb730406bac91044a4bf38af24a2f3d, type: 3}
+  - berezkaRodnayaPrefab: {fileID: 4580675934112893302, guid: 9424bde11cc475147959637d5463deca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
